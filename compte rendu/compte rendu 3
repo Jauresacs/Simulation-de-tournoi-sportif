@@ -1,0 +1,10 @@
+# Compte rendu de la réunion du 14-11-2023
+## Points abordés
+* point A_(la structure du projet)_
+* point B _(Fonctionalité de notre projet)_
+* point C _(le diagramme uml du projet)_
+* point D -(Répartition éffective des tâches)_
+## Décisions prises
+* décision 1 : Les différentes classes que comportera le projet a été abordé par les binôme du projet avec les attributs de chaque classe. Par exemple, nous étions en déssaccord avec les attribut de la classe match qui de base devrait contenir que deux attributs dont le vainqueurs et le gagnant mais finalement après concertation nous avions décidé rajouter les attributs équipe 1 et équipe 2 représentant les deux équipes s'affrontant pendant le match.
+* décision 2 : Nous avions discuté en repartant sur la base du projet et en élaborant le diagramme uml pour permettre à chaque membre du groupe de pouvoir savoir c'est quoi concrètement le projet et sur ce sur quoi il sera appelé à travailler. Par rapport au diagramme uml par exemple, nous sommes parti la base de la classe tournoi comme classe principale et l'avancement nous a permis d'établir plusieurs relations d'héritage et de polymorphisme comme la méthode run de la classe tournoi qui serait complètement différentes dans les différentes phases du tournoi.
+* décision 2 : Après l'établissement du diagramme, nous avions répartis les tâches en fonction des premières classes a implémenté pour débuter le projet. Comme exemple de répartition nous avions Erwan Palierne qui est chargé de réaliser la classe équipe, ABDELKERIM Daoud qui est chargé de réaliser la classe Match......

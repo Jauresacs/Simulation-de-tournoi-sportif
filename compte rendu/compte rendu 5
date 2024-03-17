@@ -1,0 +1,8 @@
+# Compte rendu de la réunion du 23.11.2023
+## Points abordés 
+* point A La concertation sur la partie de chaque personne
+* point B L'idée de réalisation d'une interface graphique
+
+## Décisions prises
+* décision 1 : Nous avions plus discuter sur notre interface pour décider si nous désirons une interface graphique ou textuelle. Au cours de cet débat, nous avions suivi quelques tutos sur la réalisations de l'interface graphique avec swing puis nous avions pesé la masse de travil a réalisé a celui de la réalisation d'une interface textuelle. L'idée de réalisation d'une interface graphique ne déplaisant à aucun membre du groupe, nous avions donc décidé de se lancer dans la réalisation d'une interface graphique dans la mesure où on y arrivera et dans le cas contraire rester sur la réalisation d'un interface graphique.
+* décision 2 : Toujours centré sur l'interface graphique nous avions décider de quelques fonctionnalité de l'interface comme les boutons permettant l'interaction, des boutons comme ajouter des équipes, des outils nécessaire pour la réalisation d'une interface comme les JtexField, les JTexArea qui est une surface où l'on peut afficher par exemple les résultats a l'issu du tournoi
